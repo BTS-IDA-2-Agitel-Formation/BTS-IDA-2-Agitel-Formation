@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
 [Jean Eudes LOBA](https://github.com/LobaJeanEudes) \
-[Michel-Ange TRE](https://github.com/Micheltre) \
+[Michel-Ange TRE](https://github.com/Micheltre)
 
 # 💻&nbsp;Tech Stack
 💡 &nbsp; Currently learning 
