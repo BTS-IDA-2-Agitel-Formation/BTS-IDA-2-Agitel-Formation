@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 💬&nbsp;Do want to know your hight scholl ? [Agitel-Formation](http://agitel-formation.net/site/)
 
 ##👯&nbsp;Members
-[Louis Japheth KOUASSI](https://github.com/LouisDSC)
-[Jean-Charles BALAMOU](https://github.com/JeanCharlesB)
-[Yann Axel HOUANSOU](https://github.com/Leoyann)
-[Jean Eudes LOBA](https://github.com/LobaJeanEudes)
-[Michel-Ange TRE](https://github.com/Micheltre)
+[Louis Japheth KOUASSI](https://github.com/LouisDSC) \
+[Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
+[Yann Axel HOUANSOU](https://github.com/Leoyann) \
+[Jean Eudes LOBA](https://github.com/LobaJeanEudes) \
+[Michel-Ange TRE](https://github.com/Micheltre) \
 
 # 💻&nbsp;Tech Stack
 💡 &nbsp; Currently learning 
