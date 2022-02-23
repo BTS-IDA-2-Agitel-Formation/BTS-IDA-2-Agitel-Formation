@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 😄&nbsp;We are students with a passion for computer science. We design and build web applications with cutting-edge technologies.\
 💬&nbsp;Do want to know your hight scholl ? [Agitel-Formation](http://agitel-formation.net/site/)
 
-##👯&nbsp;Members
+##👯&nbsp;Members \
 [Louis Japheth KOUASSI](https://github.com/LouisDSC) \
 [Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
