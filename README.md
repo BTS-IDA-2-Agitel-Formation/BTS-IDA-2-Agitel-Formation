@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 👯&nbsp;Members \
 [Akua Sewa Deborah ADOUM](https://github.com/SewaDebo) \
-[Louis Japheth KOUASSI](https://github.com/LouisDSC) \   
+[Louis Japheth KOUASSI](https://github.com/LouisDSC)    
 [Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
 [Jean Eudes LOBA](https://github.com/LobaJeanEudes) \
