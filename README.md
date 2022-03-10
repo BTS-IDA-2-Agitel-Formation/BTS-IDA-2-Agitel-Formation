@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 # 🌱 &nbsp;Get to know us :
 😄&nbsp;We are students with a passion for computer science. We design and build web applications with cutting-edge technologies.\
-💬&nbsp;Do want to know your hight scholl ? [Agitel-Formation](http://agitel-formation.net/site/)
+💬&nbsp;Do you want to know our hight school ? [Agitel-Formation](http://agitel-formation.net/site/)
 
 ## 👯&nbsp;Members \
-[Louis Japheth KOUASSI](https://github.com/LouisDSC) \
+[Akua Sewa Deborah ADOUM](https://github.com/SewaDebo) \
+[Louis Japheth KOUASSI](https://github.com/LouisDSC) \   
 [Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
 [Jean Eudes LOBA](https://github.com/LobaJeanEudes) \
