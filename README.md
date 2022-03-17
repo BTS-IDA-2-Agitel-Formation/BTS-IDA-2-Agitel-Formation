@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [Jean Eudes LOBA](https://github.com/LobaJeanEudes)
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
 [Michel-Ange TRE](https://github.com/Micheltre) \
-[Michel-Ange TRE](https://github.com/MiessanEmmanuel)
+[Miessan emmanuel](https://github.com/MiessanEmmanuel)
 
 # 💻&nbsp;Tech Stack
 💡 &nbsp; Currently learning 
