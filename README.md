@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 [Akua Sewa Deborah ADOUM](https://github.com/SewaDebo) \
 [Louis Japheth KOUASSI](https://github.com/LouisDSC)    
 [Jean-Charles BALAMOU](https://github.com/JeanCharlesB) \
-[Jean Eudes LOBA](https://github.com/LobaJeanEudes)
+[Jean Eudes LOBA](https://github.com/LobaJeanEudes) \
 [Yann Axel HOUANSOU](https://github.com/Leoyann) \
 [Michel-Ange TRE](https://github.com/Micheltre) \
-[Miessan emmanuel](https://github.com/MiessanEmmanuel)
+[Miessan emmanuel](https://github.com/MiessanEmmanuel)\
+[Yankey Kilian](https://github.com/Kili225)
 
 # 💻&nbsp;Tech Stack
 💡 &nbsp; Currently learning 
